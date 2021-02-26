@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Back Button Example</string>
+    <string name="practice_name">Back Button Practice</string>
+    <string name="click">Click Here for</string>
+</resources>
